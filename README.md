@@ -55,128 +55,80 @@ Actualmente profundizando en **Java**, **Spring Boot**, **React**, **TypeScript*
 
 <br/>
 
-## `02` Talleres
+## `02` Stack técnico
 
 <table width="100%">
+
 <tr>
-
-<td width="50%" valign="top">
-
-### Taller de Listas
-
-Trabajo práctico enfocado en el manejo e implementación de estructuras de datos tipo lista.
-
-<br/>
-
-<a href="https://github.com/ssantivr/taller-listas-">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Taller de Colas
-
-Trabajo práctico orientado a la implementación y manejo de estructuras de datos tipo cola.
-
-<br/>
-
-<a href="https://github.com/ssantivr/Taller-de-colas-">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
-</a>
-
-</td>
-
+<th width="20%">Categoría</th>
+<th>Tecnologías</th>
 </tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=flat-square&logo=springboot&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/REST_APIs-0D0D0D?style=flat-square&logo=fastapi&logoColor=8A7CFF"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=8A7CFF"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Bases de datos</strong></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=databricks&logoColor=8A7CFF"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Herramientas</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=8A7CFF"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Hardware</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Arduino-0D0D0D?style=flat-square&logo=arduino&logoColor=8A7CFF"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>En aprendizaje</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=8A7CFF"/>
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=8A7CFF"/>
+</td>
+</tr>
+
 </table>
 
 <br/>
 
-## `03` Patrones de Software
+## `03` Proyecto destacado
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-### Factory Method
-
-Implementación del patrón de diseño **Factory Method**, enfocado en la creación de objetos mediante una estructura flexible y desacoplada.
-
-<br/>
-
-<a href="https://github.com/ssantivr/Factory-Method">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Abstract Factory
-
-Implementación del patrón **Abstract Factory**, orientado a la creación de familias de objetos relacionados sin especificar sus clases concretas.
-
-<br/>
-
-<a href="https://github.com/ssantivr/Abstract-Factory-">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Caso de Estudio 1
-
-Ejercicio práctico relacionado con el análisis y aplicación de patrones de diseño de software.
-
-<br/>
-
-<a href="https://github.com/ssantivr/Caso-de-estudio-1">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Patrones de Software
-
-Repositorio utilizado para organizar y desarrollar ejercicios relacionados con patrones de diseño.
-
-<br/>
-
-<a href="https://github.com/ssantivr/PATRONES-DE-SOFTWARE">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-## `04` Proyecto destacado
-
-<table width="100%">
-<tr>
-
 <td width="100%" valign="top">
 
 ### AgroSmirt
 
 Sistema inteligente para el **monitoreo y automatización del riego de cultivos**.
 
-AgroSmirt utiliza sensores conectados a **Arduino** para obtener información en tiempo real sobre la humedad del suelo y las condiciones ambientales.
-
-Los datos son procesados mediante **Java** y almacenados en **MySQL**, permitiendo tomar decisiones automáticas para controlar el riego, motores y bombas de agua.
+AgroSmirt utiliza sensores conectados a **Arduino** para obtener información en tiempo real sobre la humedad del suelo y las condiciones ambientales. Los datos son procesados mediante **Java** y almacenados en **MySQL**, permitiendo tomar decisiones automáticas para controlar el riego, motores y bombas de agua.
 
 **Objetivos principales:**
 
@@ -203,32 +155,35 @@ Los datos son procesados mediante **Java** y almacenados en **MySQL**, permitien
 </a>
 
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-## `05` Stack técnico
+## `04` Proyectos académicos
 
 <table width="100%">
-
 <tr>
 
-<th width="20%">Categoría</th>
-<th>Tecnologías</th>
+<td width="50%" valign="top">
 
-</tr>
+### Taller de Listas
+Trabajo práctico enfocado en el manejo e implementación de estructuras de datos tipo lista.
+<br/>
+<a href="https://github.com/ssantivr/taller-listas-">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
+</a>
 
-<tr>
+</td>
 
-<td><strong>Backend</strong></td>
+<td width="50%" valign="top">
 
-<td>
-
-<img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=flat-square&logo=springboot&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/REST_APIs-0D0D0D?style=flat-square&logo=fastapi&logoColor=8A7CFF"/>
+### Taller de Colas
+Trabajo práctico orientado a la implementación y manejo de estructuras de datos tipo cola.
+<br/>
+<a href="https://github.com/ssantivr/Taller-de-colas-">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
+</a>
 
 </td>
 
@@ -236,13 +191,25 @@ Los datos son procesados mediante **Java** y almacenados en **MySQL**, permitien
 
 <tr>
 
-<td><strong>Frontend</strong></td>
+<td width="50%" valign="top">
 
-<td>
+### Factory Method
+Implementación del patrón de diseño **Factory Method**, enfocado en la creación de objetos mediante una estructura flexible y desacoplada.
+<br/>
+<a href="https://github.com/ssantivr/Factory-Method">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
+</a>
 
-<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=8A7CFF"/>
+</td>
+
+<td width="50%" valign="top">
+
+### Abstract Factory
+Implementación del patrón **Abstract Factory**, orientado a la creación de familias de objetos relacionados sin especificar sus clases concretas.
+<br/>
+<a href="https://github.com/ssantivr/Abstract-Factory-">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
+</a>
 
 </td>
 
@@ -250,61 +217,34 @@ Los datos son procesados mediante **Java** y almacenados en **MySQL**, permitien
 
 <tr>
 
-<td><strong>Bases de datos</strong></td>
+<td width="50%" valign="top">
 
-<td>
+### Caso de Estudio 1
+Ejercicio práctico relacionado con el análisis y aplicación de patrones de diseño de software.
+<br/>
+<a href="https://github.com/ssantivr/Caso-de-estudio-1">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
+</a>
 
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=databricks&logoColor=8A7CFF"/>
+</td>
+
+<td width="50%" valign="top">
+
+### Patrones de Software
+Repositorio utilizado para organizar y desarrollar ejercicios relacionados con patrones de diseño.
+<br/>
+<a href="https://github.com/ssantivr/PATRONES-DE-SOFTWARE">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
+</a>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td><strong>Herramientas</strong></td>
-
-<td>
-
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=8A7CFF"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>Hardware</strong></td>
-
-<td>
-
-<img src="https://img.shields.io/badge/Arduino-0D0D0D?style=flat-square&logo=arduino&logoColor=8A7CFF"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>En aprendizaje</strong></td>
-
-<td>
-
-<img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=8A7CFF"/>
-<img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=8A7CFF"/>
-
-</td>
-
-</tr>
-
 </table>
 
 <br/>
 
-## `06` Estadísticas
+## `05` Estadísticas
 
 <div align="center">
 
@@ -320,7 +260,7 @@ Los datos son procesados mediante **Java** y almacenados en **MySQL**, permitien
 
 <br/>
 
-## `07` Objetivos 2026
+## `06` Objetivos 2026
 
 - Consolidar el desarrollo Full Stack con aplicaciones listas para producción.
 - Reforzar principios **SOLID**, patrones de diseño y arquitectura de software.
@@ -329,16 +269,6 @@ Los datos son procesados mediante **Java** y almacenados en **MySQL**, permitien
 - Aprender fundamentos de **Docker** y **DevOps**.
 - Construir proyectos que integren software, bases de datos y hardware.
 - Contribuir a proyectos Open Source.
-
-<br/>
-
-## Actualmente aprendiendo
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,mysql,docker,linux&theme=dark"/>
-
-</div>
 
 <br/>
 
