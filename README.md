@@ -39,14 +39,14 @@ Actualmente profundizando en **Java**, **Spring Boot**, **React**, **TypeScript*
 
 <td width="42%" valign="top">
 
-| | |
-|---|---|
-| **Rol** | Software Engineer |
-| **Enfoque** | Full Stack Development |
-| **Intereses** | Arquitectura · Backend · Bases de datos |
-| **Ubicación** | Colombia |
-| **Aprendiendo** | Docker · DevOps |
-| **Idiomas** | Español |
+|                 |                                         |
+| --------------- | --------------------------------------- |
+| **Rol**         | Software Engineer                       |
+| **Enfoque**     | Full Stack Development                  |
+| **Intereses**   | Arquitectura · Backend · Bases de datos |
+| **Ubicación**   | Colombia                                |
+| **Aprendiendo** | Docker · DevOps                         |
+| **Idiomas**     | Español                                 |
 
 </td>
 
@@ -132,13 +132,13 @@ AgroSmirt utiliza sensores conectados a **Arduino** para obtener información en
 
 **Objetivos principales:**
 
-- Monitorear la humedad del suelo.
-- Analizar condiciones ambientales.
-- Automatizar el proceso de riego.
-- Controlar motores y bombas de agua.
-- Generar alertas.
-- Registrar y analizar información.
-- Optimizar el consumo de agua.
+* Monitorear la humedad del suelo.
+* Analizar condiciones ambientales.
+* Automatizar el proceso de riego.
+* Controlar motores y bombas de agua.
+* Generar alertas.
+* Registrar y analizar información.
+* Optimizar el consumo de agua.
 
 <br/>
 
@@ -168,8 +168,11 @@ AgroSmirt utiliza sensores conectados a **Arduino** para obtener información en
 <td width="50%" valign="top">
 
 ### Taller de Listas
+
 Trabajo práctico enfocado en el manejo e implementación de estructuras de datos tipo lista.
+
 <br/>
+
 <a href="https://github.com/ssantivr/taller-listas-">
   <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
 </a>
@@ -179,8 +182,11 @@ Trabajo práctico enfocado en el manejo e implementación de estructuras de dato
 <td width="50%" valign="top">
 
 ### Taller de Colas
+
 Trabajo práctico orientado a la implementación y manejo de estructuras de datos tipo cola.
+
 <br/>
+
 <a href="https://github.com/ssantivr/Taller-de-colas-">
   <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
 </a>
@@ -194,8 +200,11 @@ Trabajo práctico orientado a la implementación y manejo de estructuras de dato
 <td width="50%" valign="top">
 
 ### Factory Method
+
 Implementación del patrón de diseño **Factory Method**, enfocado en la creación de objetos mediante una estructura flexible y desacoplada.
+
 <br/>
+
 <a href="https://github.com/ssantivr/Factory-Method">
   <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
 </a>
@@ -205,8 +214,11 @@ Implementación del patrón de diseño **Factory Method**, enfocado en la creaci
 <td width="50%" valign="top">
 
 ### Abstract Factory
+
 Implementación del patrón **Abstract Factory**, orientado a la creación de familias de objetos relacionados sin especificar sus clases concretas.
+
 <br/>
+
 <a href="https://github.com/ssantivr/Abstract-Factory-">
   <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
 </a>
@@ -220,8 +232,11 @@ Implementación del patrón **Abstract Factory**, orientado a la creación de fa
 <td width="50%" valign="top">
 
 ### Caso de Estudio 1
+
 Ejercicio práctico relacionado con el análisis y aplicación de patrones de diseño de software.
+
 <br/>
+
 <a href="https://github.com/ssantivr/Caso-de-estudio-1">
   <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
 </a>
@@ -231,11 +246,36 @@ Ejercicio práctico relacionado con el análisis y aplicación de patrones de di
 <td width="50%" valign="top">
 
 ### Patrones de Software
+
 Repositorio utilizado para organizar y desarrollar ejercicios relacionados con patrones de diseño.
+
 <br/>
+
 <a href="https://github.com/ssantivr/PATRONES-DE-SOFTWARE">
   <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
 </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Examen de Patrones de Software
+
+Proyecto académico desarrollado para la aplicación práctica de patrones de diseño de software.
+
+<br/>
+
+<a href="https://github.com/ssantivr/examen-de-patrones-de-sofware">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-0D0D0D?style=for-the-badge&logo=github&logoColor=8A7CFF"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 
@@ -262,13 +302,13 @@ Repositorio utilizado para organizar y desarrollar ejercicios relacionados con p
 
 ## `06` Objetivos 2026
 
-- Consolidar el desarrollo Full Stack con aplicaciones listas para producción.
-- Reforzar principios **SOLID**, patrones de diseño y arquitectura de software.
-- Profundizar en **Java** y **Spring Boot**.
-- Fortalecer conocimientos de **React** y **TypeScript**.
-- Aprender fundamentos de **Docker** y **DevOps**.
-- Construir proyectos que integren software, bases de datos y hardware.
-- Contribuir a proyectos Open Source.
+* Consolidar el desarrollo Full Stack con aplicaciones listas para producción.
+* Reforzar principios **SOLID**, patrones de diseño y arquitectura de software.
+* Profundizar en **Java** y **Spring Boot**.
+* Fortalecer conocimientos de **React** y **TypeScript**.
+* Aprender fundamentos de **Docker** y **DevOps**.
+* Construir proyectos que integren software, bases de datos y hardware.
+* Contribuir a proyectos Open Source.
 
 <br/>
 
